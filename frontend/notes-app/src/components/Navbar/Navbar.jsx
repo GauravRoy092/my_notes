@@ -4,6 +4,10 @@ import { useNavigate } from "react-router-dom"; // Import useNavigate
 import SearchBar from "../SearchBar/searchBar";
 
 const Navbar = () => {
+
+  const [searchquery, setSearchquery] = React.useState("");
+
+
   const navigate = useNavigate(); // Initialize useNavigate hook
 
   const onLogout = () => {
