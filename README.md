@@ -1,5 +1,5 @@
 
-# Mern Stack Notes App
+# Notify (MERN App)
 
 Just a Simple Notes App But Quite Efficient
 
